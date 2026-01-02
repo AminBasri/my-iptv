@@ -41,6 +41,7 @@ ENV/
 data/*.json
 data/*.m3u
 data/*.m3u8
+!data/example_channels.m3u8
 !data/.gitkeep
 
 # Logs
