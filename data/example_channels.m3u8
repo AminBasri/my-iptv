@@ -1,0 +1,36 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/TV3_Malaysia_2019.svg/1200px-TV3_Malaysia_2019.svg.png" group-title="General",TV3
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/TV3.m3u8
+
+#EXTINF:-1 tvg-id="ntv7.my" tvg-name="ntv7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ntv7_logo.svg/1200px-Ntv7_logo.svg.png" group-title="General",ntv7
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/ntv7.m3u8
+
+#EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/8TV_Logo.svg/1200px-8TV_Logo.svg.png" group-title="Entertainment",8TV
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/8TV.m3u8
+
+#EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/TV9_Malaysia_Logo.svg/1200px-TV9_Malaysia_Logo.svg.png" group-title="General",TV9
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/TV9.m3u8
+
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Astro_Ria_2021.png/1200px-Astro_Ria_2021.png" group-title="Astro",Astro Ria
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Astro_Ria.m3u8
+
+#EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Astro Prima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Astro_Prima_2021.png/1200px-Astro_Prima_2021.png" group-title="Astro",Astro Prima
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Astro_Prima.m3u8
+
+#EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Astro Oasis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Astro_Oasis_2021.png/1200px-Astro_Oasis_2021.png" group-title="Astro",Astro Oasis
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Astro_Oasis.m3u8
+
+#EXTINF:-1 tvg-id="BernamaTV.my" tvg-name="Bernama TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bernama_TV_Logo.svg/1200px-Bernama_TV_Logo.svg.png" group-title="News",Bernama TV
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Bernama_TV.m3u8
+
+#EXTINF:-1 tvg-id="Awani.my" tvg-name="Astro Awani" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Astro_Awani_2021.png/1200px-Astro_Awani_2021.png" group-title="News",Astro Awani
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Astro_Awani.m3u8
+
+#EXTINF:-1 tvg-id="RTM1.my" tvg-name="RTM1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/RTM_TV1.png/1200px-RTM_TV1.png" group-title="General",RTM1
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/RTM1.m3u8
+
+#EXTINF:-1 tvg-id="RTM2.my" tvg-name="RTM2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/RTM_TV2.png/1200px-RTM_TV2.png" group-title="General",RTM2
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/RTM2.m3u8
+
+#EXTINF:-1 tvg-id="DidikTV.my" tvg-name="DidikTV KPM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/DidikTV_KPM_Logo.png/1200px-DidikTV_KPM_Logo.png" group-title="Education",DidikTV KPM
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DidikTV.m3u8

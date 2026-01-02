@@ -17,7 +17,8 @@ class Settings(BaseSettings):
     ]
     
     m3u8_sources: List[str] = [
-        "https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels.m3u"
+        "https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels.m3u",
+        "./data/example_channels.m3u8"
     ]
     
     epg_refresh_interval: int = 3600
